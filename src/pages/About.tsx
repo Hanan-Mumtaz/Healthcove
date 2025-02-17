@@ -1,6 +1,6 @@
 import React from 'react';
 import { Award, BookOpen, Users, Heart } from 'lucide-react';
-import n from '../n1.png';
+import n from '../Profile.png';
 import ParticleBackground from './ParticleBackground';
 
 function About() {
